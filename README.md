@@ -5,7 +5,7 @@ Feel free to use or modify.
 
 # Installing
 Download zip with big green code button up top. Unzip in desired directory. CD to directory with setup.py and do `pip install .` 
-To use, copy the tracklist, go to your terminal and run `emp`
+To use, copy the tracklist to your clipboard, go to your terminal and run `emp`
 
 IMPORTANT:
 Edit the config.py file with your API tokens, else you will not be able to upload.
