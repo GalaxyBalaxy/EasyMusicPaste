@@ -4,7 +4,7 @@ Takes a track formatted like Artist - songname and turn into 01 - songname. Numb
 Feel free to use or modify.
 
 # Installing
-Clone respority into directory of choice. CD to directory with setup.py and do `pip install .` 
+Download zip with big green code button up top. Unzip in desired directory. CD to directory with setup.py and do `pip install .` 
 To use, copy the tracklist, go to your terminal and run `emp`
 
 IMPORTANT:
